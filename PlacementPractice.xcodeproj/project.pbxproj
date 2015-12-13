@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1026C1F01C1D819A0092CC83 /* ARRAYS_ MAXGAP.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1026C1EF1C1D819A0092CC83 /* ARRAYS_ MAXGAP.cpp */; };
 		10A087881C1C8995009751E1 /* STRINGS_ADDBINARY.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10A087861C1C8995009751E1 /* STRINGS_ADDBINARY.cpp */; };
 		10B576481C1C33040035F963 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10B576471C1C33040035F963 /* main.cpp */; };
 /* End PBXBuildFile section */
@@ -24,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1026C1EF1C1D819A0092CC83 /* ARRAYS_ MAXGAP.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "ARRAYS_ MAXGAP.cpp"; sourceTree = "<group>"; };
 		10A087861C1C8995009751E1 /* STRINGS_ADDBINARY.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = STRINGS_ADDBINARY.cpp; sourceTree = "<group>"; };
 		10A087871C1C8995009751E1 /* STRINGS_ADDBINARY.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = STRINGS_ADDBINARY.hpp; sourceTree = "<group>"; };
 		10B576441C1C33040035F963 /* PlacementPractice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PlacementPractice; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -62,6 +64,7 @@
 			children = (
 				10B576471C1C33040035F963 /* main.cpp */,
 				10A087861C1C8995009751E1 /* STRINGS_ADDBINARY.cpp */,
+				1026C1EF1C1D819A0092CC83 /* ARRAYS_ MAXGAP.cpp */,
 				10A087871C1C8995009751E1 /* STRINGS_ADDBINARY.hpp */,
 			);
 			path = PlacementPractice;
@@ -123,6 +126,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1026C1F01C1D819A0092CC83 /* ARRAYS_ MAXGAP.cpp in Sources */,
 				10A087881C1C8995009751E1 /* STRINGS_ADDBINARY.cpp in Sources */,
 				10B576481C1C33040035F963 /* main.cpp in Sources */,
 			);
